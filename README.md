@@ -17,9 +17,9 @@ My interests are:
 Languages I can speak are:
 
 - Shell,
-- Perl
-- BASIC
-- (A little bit of) Plan 9's C dialect
+- Perl,
+- BASIC,
+- (A little bit of) Plan 9's C dialect.
 
 ## $ cat /etc/os-release
 
