@@ -1,3 +1,5 @@
+<img width="2560" height="1440" alt="648176" src="https://github.com/user-attachments/assets/a21fb071-3df9-4dfe-b8d7-928cd9ee885c" />
+
 ## $ whoami
 
 I'm m4china! An average teenager who likes to kill time with retro computing. Don't expect much!
@@ -21,10 +23,16 @@ Languages I can speak are:
 - BASIC,
 - (A little bit of) Plan 9's C dialect.
 
-## $ cat /etc/os-release
+## $ cat socials.txt
 
-Void Linux x86_64
+Instagram: erlik.xbps
+Discord: hz_sans18
+Reddit: u/Additional-Tea5780/
 
-## $ uname
+## $ grep "PRETTY_NAME" /etc/os-release
+
+PRETTY_NAME="Void Linux"
+
+## $ uname -srm
 
 OpenBSD 8.0 amd64
