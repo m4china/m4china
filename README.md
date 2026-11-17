@@ -5,13 +5,14 @@ I'm m4china! An average teenager who likes to kill time with retro computing. Do
 ## $ grep -A 5 "interests" life.txt
 
 My interests are:
+
 - Retro computing (of course!),
 - UNIX and UNIX-like systems, usually POSIX stuff,
 - Programming languages that double my age,
 - Operating system and computer archaeology,
 - Useless computing stuff. xD
 
-## $ grep -A 5 "languages" life.txt
+## $ grep -A 4 "languages" life.txt
 
 Languages I can speak are:
 
