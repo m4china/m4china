@@ -1,16 +1,29 @@
-## Hi there 👋
+## $ whoami
 
-<!--
-**m4china/m4china** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm m4china! An average teenager who likes to kill time with retro computing. Don't expect much!
 
-Here are some ideas to get you started:
+## $ grep -A 5 "interests" life.txt
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My interests are:
+- Retro computing (of course!),
+- UNIX and UNIX-like systems, usually POSIX stuff,
+- Programming languages that double my age,
+- Operating system and computer archaeology,
+- Useless computing stuff. xD
+
+## $ grep -A 5 "languages" life.txt
+
+Languages I can speak are:
+
+- Shell,
+- Perl
+- BASIC
+- (A little bit of) Plan 9's C dialect
+
+## $ cat /etc/os-release
+
+Void Linux x86_64
+
+## $ uname
+
+OpenBSD 8.0 amd64
